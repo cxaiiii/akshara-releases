@@ -1,0 +1,29 @@
+Akshara — third-party components
+Made by Chaii · https://chaii.wtf
+
+Akshara bundles or downloads the following components. Each remains under its own licence.
+
+FFmpeg (ffmpeg, ffprobe and their libraries)
+  Licence: GNU Lesser General Public License v2.1 or later (LGPL build, no GPL or
+  non-free components). https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html
+  Source: https://ffmpeg.org/download.html
+    Windows build: https://github.com/BtbN/FFmpeg-Builds (n8.1, win64-lgpl-shared)
+    macOS build: https://ffmpeg.org/releases/ffmpeg-8.1.tar.xz, configured with
+      --disable-gpl --disable-nonfree --enable-videotoolbox --enable-audiotoolbox
+  FFmpeg is a trademark of Fabrice Bellard. The FFmpeg libraries are run as separate
+  programs and may be replaced with your own build of the same version.
+
+whisper.cpp and ggml — MIT Licence, https://github.com/ggml-org/whisper.cpp
+OpenAI Whisper model weights — MIT Licence, https://github.com/openai/whisper
+Silero VAD — MIT Licence, https://github.com/snakers4/silero-vad
+U²-Net (human segmentation) — Apache Licence 2.0, https://github.com/xuebinqin/U-2-Net
+ISNet (DIS) — Apache Licence 2.0, https://github.com/xuebinqin/DIS
+  (model files as packaged by rembg, MIT: https://github.com/danielgatis/rembg)
+ONNX Runtime — MIT Licence, https://github.com/microsoft/onnxruntime
+Electron and Chromium — MIT and BSD-style licences; see LICENSES.chromium.html
+Fonts via Fontsource (Noto Sans family, Inter, Anton, Archivo Black, Bangers, Bebas Neue,
+  JetBrains Mono, Montserrat, Playfair Display, Poppins) — SIL Open Font Licence 1.1;
+  Permanent Marker — Apache Licence 2.0. https://fontsource.org
+React, React DOM, Zustand, Immer — MIT Licence
+lucide-react — ISC Licence
+OpenAI Node SDK (for the optional Groq features) — Apache Licence 2.0

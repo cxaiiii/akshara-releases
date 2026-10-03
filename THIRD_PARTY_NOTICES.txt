@@ -27,3 +27,16 @@ Fonts via Fontsource (Noto Sans family, Inter, Anton, Archivo Black, Bangers, Be
 React, React DOM, Zustand, Immer — MIT Licence
 lucide-react — ISC Licence
 OpenAI Node SDK (for the optional Groq features) — Apache Licence 2.0
+three.js — MIT Licence, https://github.com/mrdoob/three.js
+Cycles (Blender's path tracer, desktop) — Apache Licence 2.0, https://projects.blender.org/blender/cycles
+  Built from v5.2.0 with the libraries it bundles (OpenImageIO, OpenColorIO, OpenEXR, Embree,
+  Open Image Denoise, oneTBB and others), each under Apache 2.0, BSD-3-Clause, MIT or zlib;
+  see bin/cycles/LICENSE-cycles.txt and bin/cycles/license/. GPU rendering uses NVIDIA CUDA
+  and OptiX.
+MediaPipe Tasks Vision and its selfie / interactive segmentation models — Apache Licence 2.0,
+  https://github.com/google-ai-edge/mediapipe
+Mediabunny — Mozilla Public Licence 2.0 (unmodified), source: https://github.com/Vanilagy/mediabunny
+ONNX Runtime Web — MIT Licence
+Kim_Vocal_2 MDX-Net vocal model (Ultimate Vocal Remover) — MIT Licence,
+  https://github.com/Anjok07/ultimatevocalremovergui (downloaded on first use)
+Android app: Capacitor — MIT Licence, https://capacitorjs.com; AndroidX — Apache Licence 2.0

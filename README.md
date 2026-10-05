@@ -44,9 +44,6 @@ Animated, word-accurate captions in 99 languages, dubbing, text behind you, and 
 | 3D, camera tracking, cinematic renders | | | ✓ | ✓ |
 | Overlay export for editing apps | | | ✓ | ✓ |
 
-The 3D tools, dubbing and sound design come to Windows and Mac with the alpha.15 desktop
-installers, which are being added to the [alpha.15 release](https://github.com/cxaiiii/akshara-releases/releases/tag/v0.1.0-alpha.15).
-
 - **Android 7 or newer.** Keep Android System WebView up to date (it updates from the Play Store).
 - **Browser:** Chrome or Edge on a computer; Chrome on Android phones.
 - **Windows 10 or 11**, 64-bit. **macOS 12 or later** on Apple Silicon (M1 or newer).

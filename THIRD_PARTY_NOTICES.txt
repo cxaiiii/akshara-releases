@@ -39,4 +39,6 @@ Mediabunny — Mozilla Public Licence 2.0 (unmodified), source: https://github.c
 ONNX Runtime Web — MIT Licence
 Kim_Vocal_2 MDX-Net vocal model (Ultimate Vocal Remover) — MIT Licence,
   https://github.com/Anjok07/ultimatevocalremovergui (downloaded on first use)
+CAM++ speaker-verification model (3D-Speaker, trained on VoxCeleb) — Apache Licence 2.0,
+  https://github.com/modelscope/3D-Speaker (ONNX export by sherpa-onnx, Apache Licence 2.0)
 Android app: Capacitor — MIT Licence, https://capacitorjs.com; AndroidX — Apache Licence 2.0
